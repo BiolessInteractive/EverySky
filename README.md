@@ -1,7 +1,7 @@
 <html>
   <body>
   <b>
-  Change Log:
+  Change Log: <br>
     Character Update (Jan 7 2021): 
       Added third person character
     </b>
